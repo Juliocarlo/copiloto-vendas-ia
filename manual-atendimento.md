@@ -1,0 +1,23 @@
+# Manual de Atendimento - Copiloto Premium
+
+## Índice
+- [Processadores](temas/processadores.md)
+- [Memória](temas/memoria.md)
+- [Armazenamento](temas/armazenamento.md)
+- [Placas de Vídeo](temas/placas-video.md)
+- [Placas de Rede](temas/placas-rede.md)
+- [Bluetooth](temas/bluetooth.md)
+- [Water Cooler](temas/watercooler.md)
+- [Backup](temas/backup.md)
+- [Desktops](temas/desktops.md)
+- [Fontes de Alimentação](temas/fontes-alimentacao.md)
+- [Monitores](temas/monitores.md)
+- [Multi-Monitores](temas/multi-monitores.md)
+- [Velocidade de Computadores](temas/velocidade-computadores.md)
+- [Gabinetes](temas/gabinetes.md)
+- [Periféricos](temas/perifericos.md)
+- [Impressoras](temas/impressoras.md)
+- [Nobreaks](temas/nobreaks.md)
+- [Licenças de Software](temas/licencas.md)
+- [Redes](temas/redes.md)
+- [Produtividade](temas/produtividade.md)
